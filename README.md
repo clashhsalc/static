@@ -87,7 +87,7 @@ Use this URL for live websites and production environments:
 Example:
 ```
 https://raw.githack.com/clashhsalc/static/commit-hash/assets/cat.jpg
-https://raw.githack.com/clashhsalc/static/ea45826/assets/cat.jpg
+https://raw.githubusercontent.com/clashhsalc/static/14da886/assets/cat.jpg
 ```
 
 #### Development URL
